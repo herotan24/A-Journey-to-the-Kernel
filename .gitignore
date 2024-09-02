@@ -1,0 +1,5 @@
+
+*.swp
+
+rootfs/busybox-rootfs.ext4
+rootfs/_install

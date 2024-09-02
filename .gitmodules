@@ -1,0 +1,3 @@
+[submodule "rootfs/busybox"]
+	path = rootfs/busybox
+	url = https://github.com/mirror/busybox.git
